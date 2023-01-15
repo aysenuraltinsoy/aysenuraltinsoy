@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tapestry&size=25&duration=4000&background=1FE6C300&lines=Hello%2C+I'm+Aysenur;Merhaba%2C+Ben+Aysenur" width="300" /> 
 
 
 
@@ -26,11 +28,19 @@
 </div>
 </td></tr></table>  
 
+## 💻 &nbsp;Tools
+<p>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30"/> </a> &nbsp;
+    <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="heroku" height="30"/> </a> &nbsp;
+    <a href="https://postman.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman"  height="30"/> </a> &nbsp;
+</p>
+
+<br /><br />
+
 
 ## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/ayşenur-altınsoy/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
 
